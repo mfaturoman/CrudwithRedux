@@ -1,4 +1,6 @@
-# CrudwithRedux
+# TUtorial
+
+git clone 
 
 DOWNLOAD DEP
 * Backend
